@@ -1,16 +1,13 @@
-### Hi there 👋
+### Sevenshards
+## Profile
+* Master's Degree in Bio Artificial Intelligence, Hanyang University
+  - 2019.09 - 2021.08, South Korea
+* Bachelor's Degree in Computer Science, Inha Technical College
+  - 2013.03 - 2019.02, South Korea
+* Language Spec : C/C++
 
-<!--
-**sevenshards00/sevenshards00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interest
+* Server Programming
+* Game Development
+* Computer Security
+* **Klee (Most favorite)**
